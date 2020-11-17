@@ -2,19 +2,30 @@
 {
     public enum Category
     {
-        Unknown,
+        Other,
+
         Housing,
+
         Utilities,
+
         Food,
+
         Alcohol,
+
         HouseholdSupplies,
+
         Hobby,
+
         Entertainment,
+
         Electronics,
+
         Transportation,
+
         Clothing,
+
         Savings,
-        Gifts,
-        Other
+
+        Gifts
     }
 }
